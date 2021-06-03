@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An history of the twofold invention of the cross, whereon our Saviour was crucified. Translated out of an antient Aramæan biologist. Together with an account of the conversion of the Ethiopians, out of Abulpharagius's Ecclesiastical history. By Dudley Loftus J. utriusq[ue] Dr</title>
+         </titleStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70238</idno><idno type="EEBO-CITATION">99834832</idno>
+  <idno type="VID">39401</idno>
+  <idno type="EEBO-PROQUEST">2264176340</idno>
+  
+            <idno type="STC">Wing H2189</idno>
+            <idno type="STC">ESTC R19469</idno>
+            <idno type="PROQUEST">99834832</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99834832e"/>
+            <note>(EEBO-TCP ; phase 2, no. A70238)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39401)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 987:28, 1887:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An history of the twofold invention of the cross, whereon our Saviour was crucified. Translated out of an antient Aramæan biologist. Together with an account of the conversion of the Ethiopians, out of Abulpharagius's Ecclesiastical history. By Dudley Loftus J. utriusq[ue] Dr</title>
+                  <author>Bar Hebraeus, 1226-1286.</author>
+                  <author>Loftus, Dudley, 1619-1695.</author>
+               </titleStmt>
+               <extent>[10], 51 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>printed Anno 1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Dudleio Loftusio.</note>
+                  <note>Abulpharagius = Bar Hebraeus.</note>
+                  <note>Identified on reel 987 as Wing L2822 (entry cancelled in Wing (CD-ROM, 1996)).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Holy Cross --  Early works to 1800.</term>
+               <term type="topical_term">Conversion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39401:1"/>
+            <p>AN HISTORY Of the Twofold <hi>Invention of the Cross,</hi> WHEREON Our <hi>Saviour</hi> was crucified.</p>
+            <p>Translated out of An antient <hi>Aramaean Biologist</hi>
+            </p>
+            <p>Together with An Account of the <hi>Conversion</hi> of the <hi>Ethiopians,</hi> out of <hi>Abulpharagius</hi>'s <hi>Ecclesiastical History.</hi>
+            </p>
+            <p>By <hi>Dudley Loftus J. utrius{que} Dr.</hi>
+            </p>
+            <p>
+               <hi>Dublin,</hi> Printed <hi>Anno</hi> 1686</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:39401:2"/>
+            <head>Alla Sacra Real Ma<seg rend="sup">tà</seg> di Maria Regina d' Inghilterra, Scotia, Francia ed Irlandia.</head>
+            <opener>
+               <salute>Sacra Reale Maestà,</salute>
+            </opener>
+            <p>NOn è conforme all'u<g ref="char:EOLhyphen"/>sanza de' savi d'in<g ref="char:EOLhyphen"/>dirizzar se stessi alla Ma<seg rend="sup">tà</seg> delle Sovrane Regine, con gran preambulo di parole, ò favellare con esso loro à briglia sciolta; adunque, ciò solo io voglio dire, che con l'innata Benignità sua, ella sia per darmi speranza, che questa Historia spiegan<g ref="char:EOLhyphen"/>te la Bandiera di Christo no<g ref="char:EOLhyphen"/>stro Signore, non solo sia per esserle grata, ma altre sì ac<g ref="char:EOLhyphen"/>cettata
+<pb facs="tcp:39401:3"/>da lei come un testi<g ref="char:EOLhyphen"/>monio della mia fedelissima Servitù, sempre mai pronta in cose di maggior momento, ed anche di volersi benigna<g ref="char:EOLhyphen"/>mente degnare di perdonar<g ref="char:EOLhyphen"/>mi; sè io sia stato così ardito di dedicar un tal libretto a V. Ma<seg rend="sup">tà</seg>; sapendo io molto bene, che ancor che una gran Regina non possa sopportare cosa così disdicevole al suo decoro, come è la prolissità delle soverchie parole; potrà pur condonare la brevità, Dun obedientissimo ed obse<g ref="char:EOLhyphen"/>quentissimo Servitore di</p>
+            <closer>
+               <salute>V. Mae<seg rend="sup">tà</seg>,</salute>
+               <lb/>
+               <signed>qual è il suo Vassallo<lb/> Dudleio Loftusio.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:39401:3"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>THis History of the Cross is here translated out of an antient Oriental Manuscript, transmitted about five years since from <hi>Aleppo,</hi> by Dr. <hi>Robert Huntingdon,</hi> now Provost of the Colledge of <hi>Dublin,</hi> unto the Bishop of <hi>Fernes</hi> and <hi>Leighlin,</hi> then Provost of the same. It is contained in a Bialogie of Eastern Saints, written in a fair Estran<g ref="char:EOLhyphen"/>galar Character, wherein the <hi>A<g ref="char:EOLhyphen"/>ramaeans</hi> usually write matters of most precious concern. This
+<pb facs="tcp:39401:4"/>Character hath been of antient rather than of common use, and after it was once discontinued for the space of an hundred years, was restored (as <hi>Gregorius</hi> the <hi>Maphrinus</hi> of the East saith) in the year <hi>1299.</hi> by <hi>Mar Jo<g ref="char:EOLhyphen"/>hannes</hi> Bishop of <hi>Carthaman,</hi> who learnt it by search and com<g ref="char:EOLhyphen"/>paring of Manuscripts, and taught it unto his Nephews; one of whom, <hi>Emanuel</hi> by name, arrived at the highest perfection in the writing of that Character that ever any one attained unto, as the said <hi>Maphrinus</hi> in his <hi>Ecclesiastical History</hi> reports.</p>
+            <p>In the next place I am to tell
+<pb facs="tcp:39401:4"/>thee, that though many pious Hi<g ref="char:EOLhyphen"/>st orians, and many other primitive Ecclesiastical Authors, who have written the Lives of Saints, and published Narratives of sacred things, were careful to represent undoubted Miracles to Posterity, as the highest motives of Belief, and others have made bold, even to temerity and presumption, in swelling up their History above a due size, with the recital of que<g ref="char:EOLhyphen"/>stionable, if not false and incre<g ref="char:EOLhyphen"/>dible Miracles, seeming by the best construction that can be made of their so doing, to endeavour, under the notion of a pious Cou<g ref="char:EOLhyphen"/>senage, to obtrude the belief of
+<pb facs="tcp:39401:5"/>them on the credulity of some igno<g ref="char:EOLhyphen"/>rant Ages not long since past, which are now shamefully discredited by a more discerning Generation, and seem to be exploded by the present Bishop of <hi>Rome,</hi> who (as is gi<g ref="char:EOLhyphen"/>ven forth) rates questionable Mi<g ref="char:EOLhyphen"/>racles as false Money, put in to fill the Bag, though it adds lit<g ref="char:EOLhyphen"/>tle or nothing to the value of the Sum; but such is the likelihood of this Natrative, so well agree<g ref="char:EOLhyphen"/>ing with the Consent and Appro<g ref="char:EOLhyphen"/>bation of other authentick Wri<g ref="char:EOLhyphen"/>ters, and the Credit of the Au<g ref="char:EOLhyphen"/>thor, so sober and grave in what he relates concerning this Subject, that I shall not need to argue for the
+<pb facs="tcp:39401:5"/>Belief of what he delivers; only this observe, that this Author e<g ref="char:EOLhyphen"/>rects the Scheme of the Cross in a situation as far distant from te<g ref="char:EOLhyphen"/>merary Superstition, as from dis<g ref="char:EOLhyphen"/>dainful Neglect; and though the Cross doth not bear in this Histo<g ref="char:EOLhyphen"/>ry so high an Elevation, as it doth in the Romish Ritual, it can give no discontent to that Church, who can find nothing therein blameable; nor to the Church of <hi>England,</hi> with whom the Sig<g ref="char:EOLhyphen"/>nature of the Cross is of so cele<g ref="char:EOLhyphen"/>brated a use in the Sacrament of Baptism. It is possible, that they who think the use of the Cross in Baptism superstitious, may be
+<pb facs="tcp:39401:6"/>apt to exclaim against me, as Popishly inclined; but I, who have always followed the rule of the <hi>Italian</hi> Proverb <hi>[Fa bene e lascia dire]</hi> need not apologize for what I think well done.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:39401:6"/>
+            <head>A NARRATIVE Concerning <hi>The Wood of the Cross</hi> OF OUR REDEEMER, Setting forth in what man<g ref="char:EOLhyphen"/>ner it was revealed, and shewed unto Men.</head>
+            <p>
+               <hi>PATRONICA,</hi> the Wife of <hi>Claudius Caesar,</hi> whom <hi>Tiberius</hi> constituted the second of his Empire,
+<pb n="2" facs="tcp:39401:7"/>having been at <hi>Rome,</hi> when <hi>Simon Cephas</hi> resided there, and observing the Mira<g ref="char:EOLhyphen"/>cles and Wonders which he wrought in the Name of Jesus Christ, she renounced the Heathenism of her fore<g ref="char:EOLhyphen"/>fathers, as also the Idols which they had worshiped, and did believe in our Lord Christ, and arose conside<g ref="char:EOLhyphen"/>rately, and descended from <hi>Rome</hi> to <hi>Hierusalem,</hi> and her two Sons and one Virgin Daughter accompanied her; and <hi>Hierusalem</hi> went out to meet her, and they receiv<g ref="char:EOLhyphen"/>ed her with great Honour: and <hi>James</hi> was made there a
+<pb n="3" facs="tcp:39401:7"/>Bishop, and Commander in the Church which was built there. And when he heard for what cause the Empress came to <hi>Hierusa<g ref="char:EOLhyphen"/>lem,</hi> he repaired unto her, at the Court of <hi>Herods</hi> Pa<g ref="char:EOLhyphen"/>lace, where she lodged. And when she saw him, she en<g ref="char:EOLhyphen"/>tertained him gladly with great rejoycing, as she had received <hi>Simon Cephas,</hi> and he shewed unto her Miracles and wondrous works, as <hi>Si<g ref="char:EOLhyphen"/>mon</hi> had done: and she said unto him, Shew unto me <hi>Golgotha,</hi> where Christ was crucified, and the Wood of the Cross whereon Christ
+<pb n="4" facs="tcp:39401:8"/>was hung by the Jews, and the Sepulchre wherein he was laid. <hi>James</hi> said unto her, Those three things which thou wouldst see, are under the Custody of the Jews, and they keep them shut up from us, and they do not permit us to repair to the place where they are, to pray before the Sepulchre, or at <hi>Golgotha,</hi> neither will they give us the Wood whereon he was crucified. And moreover, they persecute us, to the end we may not teach the Name of Christ; and ma<g ref="char:EOLhyphen"/>ny times they imprison us.
+<pb n="5" facs="tcp:39401:8"/>And when the Empress heard this, she commanded, and they brought before her <hi>Honia</hi> the Son of <hi>Hanan</hi> the Priest, and <hi>Gorho</hi> the Son of <hi>Kiphas,</hi> and <hi>Judah Vari<g ref="char:EOLhyphen"/>bedshalam</hi> the Chief of the Jews, and she said unto them, Deliver <hi>Golgotha,</hi> and the Sephulchre, and the Wood of the Cross unto <hi>James,</hi> and those who shall accompany him; and after<g ref="char:EOLhyphen"/>wards she went unto the Sepulchre of our Lord, and found therein three Crosses, the one of our Lord, and two of the Thieves: and at the time that she came un<g ref="char:EOLhyphen"/>to
+<pb n="6" facs="tcp:39401:9"/>the Sepulchre, her Sons being with her, her Virgin Daughter fell down, and died without Pain or Sick<g ref="char:EOLhyphen"/>ness; and when she saw that her Daughter was dead, she immediately drew nigh, and worshiped, praying in the Sepulchre, and in her Prayer said, Our Lord Je<g ref="char:EOLhyphen"/>sus Christ, who gave him<g ref="char:EOLhyphen"/>self for man, and was cruci<g ref="char:EOLhyphen"/>fied in this place, and arose, and raised with him many from the dead; the cru<g ref="char:EOLhyphen"/>cifying Jews, and Gentiles will hear, that I have re<g ref="char:EOLhyphen"/>nounced their Images, and their Worship, and will
+<pb n="7" facs="tcp:39401:9"/>triumph over me, scoffing at me, and will say, these things happened unto her, by reason that she renounced the Gods whom she wor<g ref="char:EOLhyphen"/>shiped, and professed Christ. Thou, O Lord, have a re<g ref="char:EOLhyphen"/>gard unto thy holy Name, that it be not blasphemed in this place. And when she had thus said, her eld<g ref="char:EOLhyphen"/>est Son came unto her, and said, Hear what I have to say before thy Majesty, that I am so perswaded in my thoughts, that the sudden Death of my Sister was not void of Providence, but that God might be magnified by
+<pb n="8" facs="tcp:39401:10"/>a wonderful act. For behold, we entered into this Sepul<g ref="char:EOLhyphen"/>chre, and found therein three Crosses, not knowing which of them was the Cross whereon our Saviour was crucified: and I am of opi<g ref="char:EOLhyphen"/>nion, that by the Death of my Sister we shall be able to know which of them is it. Then the Empress (though much afflicted at that time) understood that the Boy had spoken wisely, and rightly, and she took in her hand one of those Crosses, and placed it on the Corps of her Daughter, and said in Prayer, Christ,
+<pb n="9" facs="tcp:39401:10"/>who shewed wonderful Works in this place, if this be thy Cross, shew thy Pow<g ref="char:EOLhyphen"/>er, and revive my Daugh<g ref="char:EOLhyphen"/>ter; and let thy Name be glorified, and let thy Wor<g ref="char:EOLhyphen"/>shipers rejoyce, and let thy Foes be put to shame. And when she had expected one hour, she took the second Cross and laid it on the Corps, and prayed again. And after she had expected one hour, she took up the third Cross, and as she would have lifted up her eyes to Heaven, and have besought her Lord, and be<g ref="char:EOLhyphen"/>fore she spake, as the Wood
+<pb n="10" facs="tcp:39401:11"/>touched her Corps, she re<g ref="char:EOLhyphen"/>vived, and arose immedi<g ref="char:EOLhyphen"/>ately. And the Empress, when she saw the Miracle that was done, she magni<g ref="char:EOLhyphen"/>fied the Lord with praises, and commanded that a great and stately Building should be raised over <hi>Golgotha,</hi> and over the Sepulchre, and that it should be a place for Di<g ref="char:EOLhyphen"/>vine Administration. And the Jews, who rejoyced at first, turned their Joy into Sorrow, and the Report thereof spread it self into remote places, and where<g ref="char:EOLhyphen"/>soever the Apostles had preached it.</p>
+            <pb n="11" facs="tcp:39401:11"/>
+            <p> And when the Empress returned unto <hi>Rome,</hi> she de<g ref="char:EOLhyphen"/>clared before <hi>Claudius</hi> the Emperor what things were done; and he gave com<g ref="char:EOLhyphen"/>mand that the Jews should be driven out of <hi>Rome,</hi> and from the Regions of <hi>Ita<g ref="char:EOLhyphen"/>ly.</hi>
+            </p>
+            <p>Furthermore also, in the days of <hi>Trajan</hi> the wicked Emperor, he commanded, that whosoever did assent unto the Doctrine of Christ should receive extreme Pu<g ref="char:EOLhyphen"/>nishment; and the Horn of the Jewish Nation was ex<g ref="char:EOLhyphen"/>alted, and they began to torment the Christians, as
+<pb n="12" facs="tcp:39401:12"/>did their forefathers in the Prophet. And they gather<g ref="char:EOLhyphen"/>ed themselves together a<g ref="char:EOLhyphen"/>gainst <hi>Simon,</hi> who was made Bishop in <hi>Hierusalem,</hi> and they cast their hands upon him, and used him contu<g ref="char:EOLhyphen"/>meliously; forasmuch as the people who professed Christ were not yet much multi<g ref="char:EOLhyphen"/>plied: and the Jews, who tormented <hi>Simon,</hi> took away the Wood of the Cross of our Saviour (and this <hi>Si<g ref="char:EOLhyphen"/>mon</hi> was the Son of <hi>Cleophas,</hi>) and the Jews took counsel to hide it in the earth, that the Christians might not a<g ref="char:EOLhyphen"/>ny more worship Cnrist;
+<pb n="13" facs="tcp:39401:12"/>and this <hi>Simon</hi> was the se<g ref="char:EOLhyphen"/>cond Bishop that sat in the Church of <hi>Hierusalem.</hi>
+            </p>
+            <p>And when they took a<g ref="char:EOLhyphen"/>way the Cross of our Lord, he was necessitated to de<g ref="char:EOLhyphen"/>liver it unto those Jews, and they digged in the earth about twenty cubits, and hid it, and it was hid<g ref="char:EOLhyphen"/>den in the Earth from the time that <hi>Patronica</hi> the Empress gave it unto <hi>James</hi> the Bishop during the days of fifteen Bishops; the first of them was this <hi>James,</hi> the Brother of our Lord, <hi>Si<g ref="char:EOLhyphen"/>mon, Justus, Zaccheus, Tobno, Benjamin, John, Matthew,
+<pb n="14" facs="tcp:39401:13"/>Philip, Disincus, Justus, Levi, Ephraim,</hi> and the last of the fifteen was <hi>Judas,</hi> in whose days the Cross ascended the second time from the earth.</p>
+            <p>Furthermore, it is decla<g ref="char:EOLhyphen"/>red, how <hi>Helen</hi> the Queen, and the Mother of <hi>Constan<g ref="char:EOLhyphen"/>tine</hi> the Faithful Emperour, found it in the seventh year of the Reign of <hi>Constantine,</hi> in the month of the second <hi>January,</hi> the Forces of the <hi>Babarians</hi> were mustered on the Bank of a certain Ri<g ref="char:EOLhyphen"/>ver called <hi>Danubie,</hi> with de<g ref="char:EOLhyphen"/>sign to pass over, and de<g ref="char:EOLhyphen"/>stroy the whole Dominion
+<pb n="15" facs="tcp:39401:13"/>of the <hi>Roman</hi> Empire; and the Forces of the <hi>Barbarians</hi> increasing, <hi>Constantine</hi> inga<g ref="char:EOLhyphen"/>ged in battel, and discom<g ref="char:EOLhyphen"/>fited them; and on the day of the morning that they were to ingage in battel, at midnight, <hi>Constantine</hi> saw the Light of the Cross, as glo<g ref="char:EOLhyphen"/>rious as an Angel, bright<g ref="char:EOLhyphen"/>er than the Sun holding the same, and it illumi<g ref="char:EOLhyphen"/>nated the whole earth, and there were in it Letters of Stars, whose Compaction signified unto him by this sign, <hi>Thou shalt overcome.</hi> And he awaked, and was much terrified, and reasoned in
+<pb n="16" facs="tcp:39401:14"/>his mind, of which of the Gods is this Sign, and he declared the Vision which he saw unto the wise men of his Empire, and he com<g ref="char:EOLhyphen"/>manded, that they should make an Ensign like there<g ref="char:EOLhyphen"/>unto, and it should be born before him to the Battel, and they did so, and there was a mighty Battel on that day, and the <hi>Barbarians</hi> turn<g ref="char:EOLhyphen"/>ed their backs, and he gave them a great blow, and such as remained of them, he cast them into Chains, and straigtway he assembled all the Prelates, and de<g ref="char:EOLhyphen"/>manded of them, to which
+<pb n="17" facs="tcp:39401:14"/>of the Gods doth this Ensign belong, and they answered, Lord Emperour, this En<g ref="char:EOLhyphen"/>sign doth not belong to the terrestrial Gods, whom we worship, but to the Host of God from Heaven; and the Christians were called at this time <hi>Nazarites,</hi> and they approached unto the Emperour, and said unto him, Lord Emperour, this Ensign appertains unto Je<g ref="char:EOLhyphen"/>sus Christ the Son of the living God. And when he heard those words, he sent, and called for <hi>Eusebius</hi> Bi<g ref="char:EOLhyphen"/>shop of <hi>Rome,</hi> and was in<g ref="char:EOLhyphen"/>structed
+<pb n="18" facs="tcp:39401:15"/>by him concerning the coming of our Lord Je<g ref="char:EOLhyphen"/>sus into the world, and concerning his Conception, and Birth, and Original, his Crucifixion, his Resurrection, and Ascension into Heaven; and the Emperour believed gladly with his whole heart, and with his whole mind; and he arose, and was bap<g ref="char:EOLhyphen"/>tized, he, and his Mother, and all his Palace; and then he perswaded his Mother, and sent her with <hi>Eusebi<g ref="char:EOLhyphen"/>us</hi> the Bishop, and a great Train of <hi>Romans,</hi> and he com<g ref="char:EOLhyphen"/>manded his Mother dili<g ref="char:EOLhyphen"/>gently
+<pb n="19" facs="tcp:39401:15"/>to inquire for the Wood of the Cross, and that she should build a Church in <hi>Golgotha:</hi> And from the Resurrection of our Saviour, until the se<g ref="char:EOLhyphen"/>cond finding of the Cross had passed three hundred &amp; one years, and in the month of <hi>August,</hi> on the twenty and eighth day thereof, the Em<g ref="char:EOLhyphen"/>press set forth on her Jour<g ref="char:EOLhyphen"/>ney to <hi>Hierusalem</hi> to inquire after the Wood of the Cross, and that she might leave behind her a Report that should last for ever.</p>
+            <p>And she entered into <hi>Hieru<g ref="char:EOLhyphen"/>salem</hi>
+               <pb n="20" facs="tcp:39401:16"/>in great pomp, and she gave commandment, that all the Jews who remain<g ref="char:EOLhyphen"/>ed about <hi>Hierusalem</hi> should be assembled together, and <hi>Hierusalem</hi> was almost waste; and about thirty thousand men being assembled, she said unto them, I am taught from Books of the Prophets, that you are the Seed of the Righteous, and that God loved you more than all Nations, and that he was to send unto you his Son, the Splendor of his Glory, and the Splendor of his Es<g ref="char:EOLhyphen"/>sence. Ye understood him
+<pb n="21" facs="tcp:39401:16"/>not, but chose Darkness in<g ref="char:EOLhyphen"/>stead of Light; and there<g ref="char:EOLhyphen"/>fore choose me from a<g ref="char:EOLhyphen"/>mongst you men, Scribes, and expert in the Law, who may be able to return me an Answer concerning whatsoever thing I shall de<g ref="char:EOLhyphen"/>mand of them, and they departed from before her with great fear, and chose from amongst them about two thousand wise men and Scribes out of the City, and Villages of <hi>Judea;</hi> and at their return they came un<g ref="char:EOLhyphen"/>to the Empress, and said unto her, These are the
+<pb n="22" facs="tcp:39401:17"/>learned men which we have, and are expert in the Law, then she confidently said unto them, Are ye able to inform me of whatsoever thing I shall ask you, lest ye dye a bad Death deserv<g ref="char:EOLhyphen"/>edly by my hand? Return again, choose for me from amongst you such as are most expert in the Law, and they went and chose one thousand men.</p>
+            <p>And again, she said unto them, Observe those who are the wisest amongst you, and choose for me thirty men. Have ye not heard what <hi>E<g ref="char:EOLhyphen"/>saias</hi>
+               <pb n="23" facs="tcp:39401:17"/>said? <hi>A Child is born un<g ref="char:EOLhyphen"/>to us, and a Son is given unto us, whose Mother Man hath not known.</hi>
+            </p>
+            <p>And again, <hi>David</hi> said, <hi>I have placed the Lord before me for ever.</hi> And moreover <hi>E<g ref="char:EOLhyphen"/>saias</hi> said concerning you, <hi>I exalted the Children of the House, and they rebelled against me; the Ox knoweth his Ma<g ref="char:EOLhyphen"/>ster,</hi> and so forth.</p>
+            <p>And now behold, ye are preserved from my hand for two hours, observe, and in<g ref="char:EOLhyphen"/>form me of whatsoever I shall ask you, let the blind<g ref="char:EOLhyphen"/>ness of your forefathers suf<g ref="char:EOLhyphen"/>fice
+<pb n="24" facs="tcp:39401:18"/>ye the Children of <hi>Isra<g ref="char:EOLhyphen"/>el,</hi> who said of Jesus, He is not God, though the Law and the Prophets testifie of him, that he is God over all. And the Jews answered, and said, We have read the Law and the Prophets, that they might inform us concerning this very thing whereof we have been interrogated by thee, and we have answer<g ref="char:EOLhyphen"/>ed unto thee.</p>
+            <p>And again she perswaded them, saying, Go, and choose for me the wisest amongst you, who know Wisdom; and they went out from
+<pb n="25" facs="tcp:39401:18"/>before her with fear, and said amongst themselves, What a sad thing is this which the Empress hath cast among us! and one of them, whose name was <hi>Ju<g ref="char:EOLhyphen"/>das,</hi> answered and said unto his Brethren, I am of opi<g ref="char:EOLhyphen"/>nion, that this question, which the Empress de<g ref="char:EOLhyphen"/>mands of us concerning the <hi>Wood of the Cross,</hi> whereon Jesus was cruci<g ref="char:EOLhyphen"/>fied by our Ancestors, is, that she may be revenged at our hands, and if none shall make it known, she will destroy the Doctrine
+<pb n="26" facs="tcp:39401:19"/>which our forefathers have delivered unto us. For <hi>Zac<g ref="char:EOLhyphen"/>cheus,</hi> who was Priest to <hi>Si<g ref="char:EOLhyphen"/>mon</hi> my Father, informed him of this thing, and my Father also when he was dying said, I know, my Son, that when the time shall come, that the Cross, where<g ref="char:EOLhyphen"/>on Jesus was hung, shall be inquired after, thou art to reveal, and to give infor<g ref="char:EOLhyphen"/>mation thereof, lest it de<g ref="char:EOLhyphen"/>stroy thee: For the King<g ref="char:EOLhyphen"/>dom of the <hi>Hebrews</hi> will fail, and afterwards the Em<g ref="char:EOLhyphen"/>pire of those who shall wor<g ref="char:EOLhyphen"/>ship him who was hung
+<pb n="27" facs="tcp:39401:19"/>upon the Cross shall prevail, and this shall govern the World.</p>
+            <p>And I said unto my Father, If therefore you knew that he was Christ, wherefore did our forefa<g ref="char:EOLhyphen"/>thers lay hands upon him, and crucifie him? And he answered me, I knew well, my Son, that I never a<g ref="char:EOLhyphen"/>greed in opinion with them, but at all times opposed them who did not believe in him. And I know, that when they crucified him, took him down, and laid him in the Sepulchre, he
+<pb n="28" facs="tcp:39401:20"/>arose the third day, and shewed himself to his Disci<g ref="char:EOLhyphen"/>ples, and that for this cause <hi>Stephen,</hi> the Brother of my Father, believed in him, and began to teach the Jews in the Name of Jesus, and for this reason they layed snares to intrap him, and they condemned him to be stoned to death, and he stretched forth his hands unto Heaven, and said, My Lord receive my Spirit, and lay not this Sin to their charge. And these words my Father <hi>Simon</hi> command<g ref="char:EOLhyphen"/>ed me to declare unto <hi>Zac<g ref="char:EOLhyphen"/>cheus,</hi>
+               <pb n="29" facs="tcp:39401:20"/>his Priest, and this <hi>Zac<g ref="char:EOLhyphen"/>cheus</hi> was the <hi>Nicodemus</hi> who came to Jesus by night, and <hi>Stephen</hi> was his Companion. And behold, I submit all these things unto you,; If the Empress shall interro<g ref="char:EOLhyphen"/>gate us concerning the Cross, what will ye that I say un<g ref="char:EOLhyphen"/>to her? They said unto him, These words which thou speakest, we have not heard from any but from thy self; and if the question shall be concerning the Cross, thou knowest better than all of us, and thou also art informed of the place.</p>
+            <pb n="30" facs="tcp:39401:21"/>
+            <p> And when they had said thus, the Souldiers followed them, and said, Arise, come away, for the Empress in<g ref="char:EOLhyphen"/>quires for you: and when they came, they stood be<g ref="char:EOLhyphen"/>fore her, and she interro<g ref="char:EOLhyphen"/>gated them concerning ma<g ref="char:EOLhyphen"/>ny things, and they said not unto her any thing that was true; wherefore she commanded that they shou'd be cast into a fiery Furnace, and they out of fear took hold of <hi>Judas,</hi> and present<g ref="char:EOLhyphen"/>ed him unto her, and they said, This man was the Son of a Prophet, and he is just,
+<pb n="31" facs="tcp:39401:21"/>and more skilful in the Law than we are, and he will inform thee concerning whatsoever thou shalt de<g ref="char:EOLhyphen"/>sire; for in this we shall all be Witnesses against him. Then she commanded, that all should be dismissed, and that <hi>Judas</hi> only should be apprehended: and the Em<g ref="char:EOLhyphen"/>press said unto him, There are placed before thee Death and Life, and choose which of them thou wilt. <hi>Judas</hi> answered, What man is there, or what person is there, who having Bread set before him, will take a
+<pb n="32" facs="tcp:39401:22"/>Stone, and eat instead there<g ref="char:EOLhyphen"/>of? And the Empress said unto him, If therefore thou wouldst live in the Earth, or Heaven, tell me where they have hidden the Cross of Christ. <hi>Judas</hi> said, as an<g ref="char:EOLhyphen"/>cient Memorials declare, this thing was done about two hundred years since, more or less, and we be<g ref="char:EOLhyphen"/>ing Children of this time, from whence should we know it?</p>
+            <p>The Empress said unto him, Behold, thou hast con<g ref="char:EOLhyphen"/>fessed before me, that ye have Books of Memorials
+<pb n="33" facs="tcp:39401:22"/>touching these things.</p>
+            <p>
+               <hi>Judas</hi> said unto her, I did not speak of my self before thy Majesty, and this Hi<g ref="char:EOLhyphen"/>story may be known out of Books, but we have no Hi<g ref="char:EOLhyphen"/>stories.</p>
+            <p>And the Empress said, We have the Word of Truth in the Gospel which ccurately declares where he was crucified; but do thou only shew me the place which is called <hi>Golgotha;</hi> and I will command, by my Power, the discovery of the the particular place; and I am confident, that I shall
+<pb n="34" facs="tcp:39401:23"/>obtain the desire, by which I shall live.</p>
+            <p>
+               <hi>Judas</hi> said, Neither do I know that place.</p>
+            <p>The Empress said unto him, I know, that unless thou wilt confess, and speak the truth unto me, I will take away thy Life by the torment of Hunger and Thirst. And she command<g ref="char:EOLhyphen"/>ed, that they should cast him into a dry Pit, and keep him for the space of seven days, without giving him any Meat.</p>
+            <p>Then after seven days <hi>Ju<g ref="char:EOLhyphen"/>das</hi> cried out with a loud
+<pb n="35" facs="tcp:39401:23"/>voice, and said, Raise me out of this pit, and I will shew you the place where the Cross of Christ is.</p>
+            <p>Then the Empress com<g ref="char:EOLhyphen"/>manded, and they took him out, and he went to the ve<g ref="char:EOLhyphen"/>ry place, although he was not well assured that it was there.</p>
+            <p>And <hi>Judas</hi> raised his voice in the <hi>Hebrew</hi> tongue, and said, Lord, who made Hea<g ref="char:EOLhyphen"/>ven and Earth at his beck, if it be thy pleasure, that Jesus the Son of <hi>Mary</hi> should reign, perform for us this Mi<g ref="char:EOLhyphen"/>racle, as thou didst hear <hi>Mo<g ref="char:EOLhyphen"/>ses</hi>
+               <pb n="36" facs="tcp:39401:24"/>thy Servant, &amp; didst shew unto him the Bones of <hi>Jo<g ref="char:EOLhyphen"/>seph;</hi> so shew unto us this hidden Treasure, and cause to ascend from this place a perfume of rich Odour, that I also may believe in the Cross of thy Christ, and may declare that he is a King for ever.</p>
+            <p>And when <hi>Judas</hi> prayed, straightway there was thun<g ref="char:EOLhyphen"/>der in that place, and much Incense of Aromaticks eva<g ref="char:EOLhyphen"/>porated on every side, and great wonder took hold on <hi>Judas,</hi> and he clapped his hands together, and lifted
+<pb n="37" facs="tcp:39401:24"/>up his voice, and said, Thou art truly Christ the Re<g ref="char:EOLhyphen"/>deemer of the World, I beg of thee, O Christ, make me equal, and join me, and bring me to thy Servant <hi>Stephen</hi> my Brother.</p>
+            <p>And when <hi>Judas</hi> had said these words, he took up I<g ref="char:EOLhyphen"/>ron, and he feared as <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> did, and he began to digg, and then he caused those who were command<g ref="char:EOLhyphen"/>ed by the Empress to draw nigh, and when they de<g ref="char:EOLhyphen"/>scended about twenty cu<g ref="char:EOLhyphen"/>bits, they found three Cros<g ref="char:EOLhyphen"/>ses hidden, and <hi>Judas</hi> took
+<pb n="38" facs="tcp:39401:25"/>them up, and brought them to the faithful Empress.</p>
+            <p>Then she said unto him, Which of them is the Cross of our Lord? He said, I I do not know; the she laid them in the middle of the City, and when she expect<g ref="char:EOLhyphen"/>ed to see in them the Glo<g ref="char:EOLhyphen"/>ry of God, and it being the ninth hour of that day, be<g ref="char:EOLhyphen"/>hold, there was a young man dead, whom they carried on a Bier, going to his Se<g ref="char:EOLhyphen"/>pulchre, and when he saw this, he immediately re<g ref="char:EOLhyphen"/>joyced, and said unto them, Now, my Lady, thou shalt
+<pb n="39" facs="tcp:39401:25"/>see the Power of the Cross, and the Glory that is hid therein. Then he made them to let down the Bier, and he took up every one of the Crosses, and laid them on the Bier, and when the third Cross came to be pla<g ref="char:EOLhyphen"/>ced on the Corps, the young man arose immediately. Then <hi>Satan,</hi> the enemy, cry<g ref="char:EOLhyphen"/>ed with a loud voice, and said, Who is this, which doth not permit me to take those Souls that are mine? Wo is me by reason of thee, <hi>Jesus the Nazarene!</hi> and for that thou hast revealed
+<pb n="40" facs="tcp:39401:26"/>against me thy Cross which was hidden: Wo is me from thee, <hi>Judas!</hi> what is this that thou hast done against me? formerly thou madest the world to sin by the hand of <hi>Judas,</hi> and now by the hand of <hi>Judas,</hi> behold I am persecuted from hence. I know what I will do un<g ref="char:EOLhyphen"/>to thee, thou great Perse<g ref="char:EOLhyphen"/>cutor: For behold, another Emperour shall arise, who will forsake the Cross, and will fulfil and perform my words, and I will deliver thee into his hands, and he shall bring down upon
+<pb n="41" facs="tcp:39401:26"/>thee dreadful Judgments, and thou out of bitter Tor<g ref="char:EOLhyphen"/>ment shalt renounce him that was crucified.</p>
+            <p>Then <hi>Judas</hi> was comfort<g ref="char:EOLhyphen"/>ed by the Holy Ghost, and said, He who raised the dead will preserve me from the infernal depth of flaming Fire.</p>
+            <p>And when the Empress heard these words, she ad<g ref="char:EOLhyphen"/>mired the Power of God, and the true Faith of <hi>Judas,</hi> and strictly gave order con<g ref="char:EOLhyphen"/>cerning the <hi>Wood of the Cross,</hi> and she caused to
+<pb n="42" facs="tcp:39401:27"/>be made for it a Chest of Silver, and put it therein, and deposited it in that Church which was built in <hi>Golgotha:</hi> And she called for <hi>Eusebius</hi> Bishop of <hi>Rome,</hi> and he gave unto <hi>Judas</hi> the sig<g ref="char:EOLhyphen"/>nature of Baptism, and cal<g ref="char:EOLhyphen"/>led him by the baptismal name of <hi>Kuriacus,</hi> and laid upon him the Hand of a Bishop, and placed him in the City of <hi>Hierusalem;</hi> and then <hi>Hellen</hi> the Empress commanded, that the <hi>Jews,</hi> who did not believe in Christ, should be persecut<g ref="char:EOLhyphen"/>ed, and at that time the
+<pb n="43" facs="tcp:39401:27"/>
+               <hi>Jews</hi> were driven from the land of <hi>Hierusalem.</hi>
+            </p>
+            <p>Moreover, <hi>Kuriacus</hi> made great inquisition concerning the Nails of the Cross, and he prayed unto God, and there appeared unto him a glorious Sign, like Lighten<g ref="char:EOLhyphen"/>ing, on the place of the Cross, and the Nails appear<g ref="char:EOLhyphen"/>ed in the Dust; and he ap<g ref="char:EOLhyphen"/>proached with reverence, and took them up, and pre<g ref="char:EOLhyphen"/>sented them to the faith<g ref="char:EOLhyphen"/>ful Empress, and she re<g ref="char:EOLhyphen"/>solved in her mind, to make of them an Orna<g ref="char:EOLhyphen"/>ment
+<pb n="44" facs="tcp:39401:28"/>for the Emperours Armour, and for the Bri<g ref="char:EOLhyphen"/>dle of his Horse; and she sent for a skilful Artificer, of a good report, and said unto him, Take these Nails, and make a Signiture on the Emperours Armour, and on the Bridle of his Horse, that it may be a Preservative for the Em<g ref="char:EOLhyphen"/>perour; for it behooved, that this Writing of the Prophet should be fulfil<g ref="char:EOLhyphen"/>led, that there shall be at that time on the Horses Bridle <hi>Holiness to the Lord Almighty.</hi>
+            </p>
+            <pb n="45" facs="tcp:39401:28"/>
+            <p> Then <hi>Hellen</hi> the faithful Empress reigned in <hi>Hie<g ref="char:EOLhyphen"/>rusalem,</hi> and commanded, that there should be a Commemoration of the Cross on the fourteenth of <hi>September.</hi>
+            </p>
+            <trailer>The History concerning the Finding of the Holy Cross is finished, according as we are able.</trailer>
+            <closer>Glory be to the Father, to the Son, and to the Ho<g ref="char:EOLhyphen"/>ly Ghost now, and for ever and ever. <hi>Amen.</hi>
+            </closer>
+         </div>
+         <div type="account">
+            <pb n="46" facs="tcp:39401:29"/>
+            <head>It is thought fit, as well for the satisfying of the Curious, as for the filling up of blank Paper, to give the following Account of the Conversion of the <hi>Ethiopians,</hi> as it is found in <hi>Abulpharagius</hi> his Ecclesiastical History, and translated by <hi>D. L. J. utri<g ref="char:EOLhyphen"/>usque Dr.</hi>
+            </head>
+            <p>AT this time a certain orthodox Presbyter na<g ref="char:EOLhyphen"/>med <hi>Julianus,</hi> and a Minister of Pope <hi>Dionysius Alexandrinus,</hi> had so great a zeal of affe<g ref="char:EOLhyphen"/>ction
+<pb n="47" facs="tcp:39401:29"/>to the <hi>Ethiopick</hi> Nation of <hi>Nubida,</hi> that he endea<g ref="char:EOLhyphen"/>voured to convert them to the Faith; they being then <hi>Gentiles,</hi> and very troublesom to the <hi>Roman</hi> Provinces, which when he had signified unto <hi>Theodora</hi> the Faithful Em<g ref="char:EOLhyphen"/>press, he affected her with very great joy, and she de<g ref="char:EOLhyphen"/>clared the matter to the Emperor, and besought him that he would be solicitous with her for the sending of <hi>Julianus</hi> thither; but the Em<g ref="char:EOLhyphen"/>peror was more desirous to send the Bishop of <hi>Chalcedon</hi> on that Errand, and design<g ref="char:EOLhyphen"/>ed
+<pb n="48" facs="tcp:39401:30"/>Nuntioes, furnished with Gifts and Pomp, to the King of the <hi>Nubidians;</hi> which when the Empress perceived, she sent <hi>Julianus</hi> with speed, and wrote an Epistle to <hi>Docus Thebidensis</hi> of this tenor;</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>I and the King have determi<g ref="char:EOLhyphen"/>ned with our selves to send Nun<g ref="char:EOLhyphen"/>tioes unto the</hi> Nubidian <hi>Na<g ref="char:EOLhyphen"/>tion; and behold, I, for my part, have sent</hi> Julianus, <hi>and the Emperor he is to send others with greater solemnity of Pomp; but have you a care that this my Nuntio may have first access, and make way for them.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <pb n="49" facs="tcp:39401:30"/>
+            <p> And <hi>Docus</hi> having read the Queens Letter, did as she commanded him, and stayed the Kings Embassa<g ref="char:EOLhyphen"/>dors until <hi>Julianus</hi> came, who presented the Letter of the Queen, and baptized the King &amp; his Nobles, and informed them of the Schism which the <hi>Chalcedonians</hi> had made, and of the injuries where<g ref="char:EOLhyphen"/>with they had affected holy men; how also they had de<g ref="char:EOLhyphen"/>termined a new Creed diffe<g ref="char:EOLhyphen"/>rent from the <hi>Nicene:</hi> And the Emperors Embassadors being arrived, with Letters and Presents, dehorted the
+<pb n="50" facs="tcp:39401:31"/>
+               <hi>Nubidienses,</hi> that they should not adhere to banished and condemned persons; unto whom the King and his No<g ref="char:EOLhyphen"/>bles made answer, We have received this Honour from the Emperor, and we shall return double Honour unto him: nor will we adhere to Persecutors, nor calumnious men: but forasmuch as we have already received holy Baptism by the Ministry of this excellent man, we will not admit any other: and so the whole Nation of the <hi>Chushites</hi> was instructed in the Orthodox Faith, and
+<pb n="51" facs="tcp:39401:31"/>subjected themselves to the See of <hi>Alexandria.</hi> And this <hi>Julianus</hi> remained for the space of two years, preach<g ref="char:EOLhyphen"/>ing from the third hour to the tenth, vested in a Lin<g ref="char:EOLhyphen"/>nen Surplice; he stood in subterraneal Caves abound<g ref="char:EOLhyphen"/>ing with water, and baptiz<g ref="char:EOLhyphen"/>ed there; for that there were not to be found pure waters above them</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
